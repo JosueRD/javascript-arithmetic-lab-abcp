@@ -14,4 +14,3 @@ var n=1
 function inc(n){
   return  n++
 }
-  
