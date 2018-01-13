@@ -13,7 +13,7 @@ function divide(a,b){
 
 function inc(n){
   var n=n
-  return ++n
+  return n+=1
 }
 
 function  dec(n){
@@ -24,3 +24,5 @@ function  dec(n){
 function makeInt(n){
   return parseInt(n, 10)
 }
+
+
